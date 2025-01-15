@@ -1,3 +1,3 @@
-# portfolio
+# Data/Business Analytics
 
 ## Project 1
