@@ -1,8 +1,9 @@
 # Data & Business Analytics
 
-#### Technical Skills: SQL, R, Intermediate Python; BI and Visualization Tools: MS Excel, Tableau
+#### Skills: SQL, R, Python, MS Excel, Tableau
 
 ## Education
-- B.S., Business Economics | University of California, San Diego (_June 2024_)
+- Bachelor of Science, Business Economics | University of California, San Diego (_June 2024_)
 
-
+## Projects
+### FitBit Analysis
