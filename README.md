@@ -12,4 +12,4 @@
 
 ## Projects
 ### FitBit Analysis
-[Github Read Me File] (https://github.com/matthewarucan/Google-Data-Analytics-Case-Study)
+[Github Read Me File](https://github.com/matthewarucan/Google-Data-Analytics-Case-Study)
