@@ -7,8 +7,8 @@
 (_June 2024_)
 
 ## Certifications
-- Google Data Analytics Professional Certificate - Google (October 2024_)
-- The Ultimate MySQL Bootcamp - Udemy (_November 2024_)
+- Google: Google Data Analytics Professional Certificate (_October 2024_)
+- Udemy: The Ultimate MySQL Bootcamp (_November 2024_)
 
 ## Projects
 ### FitBit Analysis
