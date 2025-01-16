@@ -1,3 +1,8 @@
-# Data/Business Analytics
+# Data & Business Analytics
 
-## Project 1
+#### Technical Skills: SQL, R, Intermediate Python; BI and Visualization Tools: MS Excel, Tableau
+
+## Education
+- B.S., Business Economics | University of California, San Diego (_June 2024_)
+
+
