@@ -16,4 +16,4 @@
 
 Analyzed smart device usage data to uncover trends and insights for Bellabeat, a health-tech company focused on women's wellness products. Used SQL to process and clean Fitbit fitness data, aggregating key metrics such as activity, heart rate, and sleep patterns. Developed interactive dashboards in Tableau to visualize data trends and provide actionable insights.
 
-![Bellabeat]/assets/images/Bellabeat logo.png
+![Bellabeat](/assets/images/Bellabeat_logo.png)
