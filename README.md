@@ -11,8 +11,8 @@
 - Udemy: The Ultimate MySQL Bootcamp (_November 2024_)
 
 ## SQL Projects
-### Bellabeat Wellness Technology Company Analysis
-[Github README](https://github.com/matthewarucan/Google-Data-Analytics-Case-Study)
+### Bellabeat Case Study: Leveraging Data Analytics for Smart Marketing Strategies
+[Bellabeat Wellness Tech: Smart Device Data Analysis & Insights](https://github.com/matthewarucan/Google-Data-Analytics-Case-Study)
 
 Analyzed smart device usage data to uncover trends and insights for Bellabeat, a health-tech company focused on women's wellness products. Used SQL to process and clean Fitbit fitness data, aggregating key metrics such as activity, heart rate, and sleep patterns. Developed interactive dashboards in Tableau to visualize data trends and provide actionable insights.
 
