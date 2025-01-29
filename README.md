@@ -19,4 +19,5 @@ Analyzed smart device usage data to uncover trends and insights for Bellabeat, a
 ## Excel Projects
 ### ER Games Global Market Strategy Analysis
 [ER Games Insights](https://github.com/matthewarucan/ER-Games)
+
 Analyzed 20,000+ records with six business analysts to create targeted release strategies for ER Games' new puzzle game, using early customer feedback for targeted marketing. Utilized Excel (pivot tables, advanced functions) and Tableau for data manipulation, KPI calculation, and dashboard visualization. Built models with A/B testing and classification to predict regional game performance and recommended actionable, data-driven strategies to stakeholders.
