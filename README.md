@@ -26,6 +26,7 @@ Analyzed 20,000+ records with six business analysts to create targeted release s
 ## Tableau Projects
 ### Airbnb Analysis Dashboard
 [Airbnb Tableau Dashboard Visualization](https://github.com/matthewarucan/Tableau-Airbnb)
+
 Reviewed over 1,000,000 data entries from the Airbnb 2016 Listings dataset, which includes comprehensive information on listings, reviews, and calendars. The listing data provides detailed insights, such as the number of bedrooms and bathrooms, location, and summary details. The reviews section contains comments and reviewer information for each listing, while the calendar data includes availability and pricing details for each listing."
 
 
