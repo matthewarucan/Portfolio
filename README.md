@@ -24,8 +24,7 @@ Analyzed 20,000+ records with six business analysts to create targeted release s
 
 ## Python Projects
 ### eBay Sales Analysis
-[Analysis]([https://github.com/matthewarucan/ER-Games](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md))
-
+[E-commerce Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)
 
 
 ## Tableau Projects
