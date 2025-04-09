@@ -22,11 +22,15 @@ Analyzed smart device usage data to uncover trends and insights for Bellabeat, a
 
 Analyzed 20,000+ records with six business analysts to create targeted release strategies for ER Games' new puzzle game, using early customer feedback for targeted marketing. Utilized Excel (pivot tables, advanced functions) and Tableau for data manipulation, KPI calculation, and dashboard visualization. Built models with A/B testing and classification to predict regional game performance and recommended actionable, data-driven strategies to stakeholders.
 
+## Python Projects
+### eBay Sales Analysis
+[Analysis]([https://github.com/matthewarucan/ER-Games](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md))
+
+
 
 ## Tableau Projects
 ### Airbnb Analysis Dashboard
 [Airbnb Tableau Dashboard Visualization](https://github.com/matthewarucan/Tableau-Airbnb)
-
 Reviewed over 1,000,000 data entries from the Airbnb 2016 Listings dataset, which includes comprehensive information on listings, reviews, and calendars. The listing data provides detailed insights, such as the number of bedrooms and bathrooms, location, and summary details. The reviews section contains comments and reviewer information for each listing, while the calendar data includes availability and pricing details for each listing."
 
 
