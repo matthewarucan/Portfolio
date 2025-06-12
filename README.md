@@ -1,4 +1,4 @@
-# Data & Business Analytics
+# Data Analyst | Business Analyst
 
 #### Skills: SQL, MS Excel, Tableau, R, Python
 
