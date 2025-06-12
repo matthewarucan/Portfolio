@@ -1,6 +1,6 @@
 # Data Analyst | Business Analyst
 
-#### Skills: SQL, MS Excel, Tableau, R, Python
+#### Skills: SQL, MS Excel, Tableau, Python, R
 
 ## Education
 - Bachelor of Science, Business Economics | University of California, San Diego
