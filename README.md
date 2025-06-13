@@ -3,13 +3,13 @@
 #### Skills: SQL, MS Excel, Tableau, Python, R
 
 ## Education
-- **Bachelor of Science, Business Economics** | University of California, San Diego,
-_June 2024_
+- Bachelor of Science, Business Economics | University of California, San Diego
+(_June 2024_)
 
 ## Certifications
-- **Google:** Google Data Analytics Professional Certificate  
+- Google: Google Data Analytics Professional Certificate  
   _Completed: October 2024_
-- **Udemy:** The Ultimate MySQL Bootcamp  
+- Udemy: The Ultimate MySQL Bootcamp  
   _Completed: November 2024_
 
 ## Python Projects
