@@ -8,9 +8,9 @@
 
 ## Certifications
 - Google: Google Data Analytics Professional Certificate
-  (_Completed October 2024_)
+(_Completed October 2024_)
 - Udemy: The Ultimate MySQL Bootcamp
-  (_Completed November 2024_)
+(_Completed November 2024_)
 
 ## Python Projects
 [eBay Sales Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)
