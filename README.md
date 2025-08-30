@@ -1,5 +1,13 @@
 # Data Analyst | Business Analyst
 
+## Featured Projects
+**🏙️ [Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)**  
+Measured the effect of San Francisco’s 2018 Airbnb crackdown using a Difference-in-Differences model, revealing rent stabilization in high-activity ZIP codes without harming long-term property values.
+**👟 [Adidas Revenue Risk Model](https://github.com/matthewarucan/Adidas)**  
+Developed an Excel-based scenario tool to quantify Revenue-at-Risk from retail channel churn, using Top-N share analysis, HHI, and substitution rate simulations to inform diversification strategy.
+**📦 [eBay Sales Optimization](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)**  
+Analyzed four years of personal sales data to identify Q4 revenue drops and drivers of purchase behavior—found a 111% boost from free shipping and recommended targeted pricing and shipping strategies.
+
 #### Skills: SQL, MS Excel, Tableau, Python, R
 
 ## Education
@@ -25,18 +33,20 @@ Conducted an end-to-end analysis of personal eBay sales data over a four-year sp
 
 ## SQL Projects
 ### [Bellabeat Wellness Tech: Fitbit User Engagement Insights](https://github.com/matthewarucan/Google-Data-Analytics-Case-Study)
-Analyzed smart device usage data to uncover trends and insights for Bellabeat, a health-tech company focused on women's wellness products. Used SQL to process and clean Fitbit fitness data, aggregating key metrics such as activity, heart rate, and sleep patterns. Developed interactive dashboards in Tableau to visualize data trends and provide actionable insights.
+Explored Fitbit device usage to identify behavioral trends for Bellabeat, a women-focused health-tech brand. Used SQL to clean and aggregate daily activity, heart rate, and sleep metrics across thousands of users. Created Tableau dashboards highlighting peak engagement windows and fitness patterns, helping guide product marketing and feature prioritization.
 
 **Tools Used:** MySQL, MS Excel, Tableau
 
 ## Excel Projects
 ### [ER Games: Launch Strategy Evaluation](https://github.com/matthewarucan/ER-Games)
-Collaborated with analysts to assess customer feedback and inform the release strategy for ER Games' new puzzle game. Utilized Excel (including PivotTables, XLOOKUP, and INDEX/MATCH) and Tableau for data manipulation, KPI calculation, and dashboard visualization. Additionally, conducted A/B testing and applied classification models to forecast game performance.
+Modeled the launch strategy for ER Games’ new puzzle-RPG by analyzing player feedback, demographic segments, and regional sales projections. Used Excel to calculate KPIs, run A/B testing scenarios, and build classification models forecasting market performance. Created Tableau dashboards summarizing top launch regions and projected adoption curves, supporting go/no-go decisions by product stakeholders.
 
 **Tools Used:** MS Excel, Tableau, JMP
 
 ### [Retail Channel Concentration & Revenue-at-Risk Analysis](https://github.com/matthewarucan/Adidas)
 Performed a channel concentration and risk analysis on Adidas U.S. sales data to assess revenue dependency across Retailer × Region × State × City combinations. Used Excel to create a dynamic scenario tool and KPI dashboard that quantified Revenue-at-Risk (RaR) with adjustable substitution assumptions. Calculated Herfindahl–Hirschman Index (HHI) quarterly, revealing a shift from high concentration (HHI = 0.445 in 2020 Q1) to low (HHI = 0.021 in 2021 Q4). Identified critical channels (>2% of revenue) and provided actionable recommendations to diversify mid-tier partnerships, protect high-risk accounts, and monitor channel risk over time.
+
+Mined over 1 million Airbnb listings to surface trends in guest reviews, listing quality, and seasonal pricing. Used Tableau to visualize key drivers of booking demand, including property type, availability windows, and review sentiment. Created visual summaries of high-converting listings to inform host strategies and market positioning.
 
 **Tools Used:** Microsoft Excel (PivotTables, XLOOKUP, KPI Dashboards, Conditional Formatting)
 
