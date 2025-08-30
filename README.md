@@ -1,10 +1,12 @@
 # Data Analyst | Business Analyst
 
 ## Featured Projects
-**🏙️ [Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)**  
+**🏙️ [Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)**
 Measured the effect of San Francisco’s 2018 Airbnb crackdown using a Difference-in-Differences model, revealing rent stabilization in high-activity ZIP codes without harming long-term property values.
+
 **👟 [Adidas Revenue Risk Model](https://github.com/matthewarucan/Adidas)**  
 Developed an Excel-based scenario tool to quantify Revenue-at-Risk from retail channel churn, using Top-N share analysis, HHI, and substitution rate simulations to inform diversification strategy.
+
 **📦 [eBay Sales Optimization](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)**  
 Analyzed four years of personal sales data to identify Q4 revenue drops and drivers of purchase behavior—found a 111% boost from free shipping and recommended targeted pricing and shipping strategies.
 
