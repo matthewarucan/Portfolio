@@ -3,13 +3,13 @@
 #### Skills: SQL, MS Excel, Tableau, Python, R
 
 ## Featured Projects
-**🏙️ [Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)**  
+**🏙️ [San Francisco Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)**  
 Measured the effect of San Francisco’s 2018 Airbnb crackdown using a Difference-in-Differences model, revealing rent stabilization in high-activity ZIP codes without harming long-term property values.
 
-**👟 [Adidas Revenue Risk Model](https://github.com/matthewarucan/Adidas)**  
+**👟 [Retail Channel Concentration & Revenue-at-Risk Analysis](https://github.com/matthewarucan/Adidas)**  
 Developed an Excel-based scenario tool to quantify Revenue-at-Risk from retail channel churn, using Top-N share analysis, HHI, and substitution rate simulations to inform diversification strategy.
 
-**📦 [eBay Sales Optimization](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)**  
+**📦 [E-Commerce Revenue Optimization & Sales Trend Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)**  
 Analyzed four years of personal sales data to identify Q4 revenue drops and drivers of purchase behavior—found a 111% boost from free shipping and recommended targeted pricing and shipping strategies.
 
 ## Education
@@ -28,7 +28,7 @@ Evaluated the impact of San Francisco’s 2018 Airbnb regulations on housing mar
 
 **Tools Used:** Python (Pandas, GeoPandas, Statsmodels, Matplotlib), Zillow/Inside Airbnb datasets
 
-### [eBay Sales Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)
+### [E-Commerce Revenue Optimization & Sales Trend Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)
 Conducted an end-to-end analysis of personal eBay sales data over a four-year span to identify drivers of seasonal revenue drops, particularly in Q4. Cleaned and transformed raw transaction data using Python (Pandas), then performed descriptive and time-series analyses to uncover trends. Key findings included a 111% increase in revenue from items offering free shipping and a 94% drop in Christmas-season sales compared to back-to-school periods. Delivered actionable strategies, such as targeted Q4 promotions, free shipping campaigns, and optimization of top-performing categories like men’s shoes.
 
 **Tools Used:** Python (Pandas), MS Excel, Tableau
