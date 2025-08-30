@@ -13,6 +13,11 @@
   _Completed: November 2024_
 
 ## Python Projects
+### [San Francisco Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)
+Evaluated the impact of San Francisco’s 2018 Airbnb regulations on housing markets using a Difference-in-Differences (DiD) approach. Cleaned and merged rent (ZORI), home value (ZHVI), and Airbnb listing datasets at the ZIP-code level, then classified areas by Airbnb activity intensity. Found that rent growth slowed in high-Airbnb ZIP codes post-policy, while home values continued to rise—suggesting the regulation curbed rental pressure without discouraging long-term investment. Delivered actionable insights through visualizations and statistical modeling using Python.
+
+**Tools Used:** Python (Pandas, GeoPandas, Statsmodels, Matplotlib), Zillow/Inside Airbnb datasets
+
 ### [eBay Sales Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)
 Conducted an end-to-end analysis of personal eBay sales data over a four-year span to identify drivers of seasonal revenue drops, particularly in Q4. Cleaned and transformed raw transaction data using Python (Pandas), then performed descriptive and time-series analyses to uncover trends. Key findings included a 111% increase in revenue from items offering free shipping and a 94% drop in Christmas-season sales compared to back-to-school periods. Delivered actionable strategies, such as targeted Q4 promotions, free shipping campaigns, and optimization of top-performing categories like men’s shoes.
 
@@ -30,11 +35,10 @@ Collaborated with analysts to assess customer feedback and inform the release st
 
 **Tools Used:** MS Excel, Tableau, JMP
 
-
 ### [Retail Channel Concentration & Revenue-at-Risk Analysis](https://github.com/matthewarucan/Adidas)
 Performed a channel concentration and risk analysis on Adidas U.S. sales data to assess revenue dependency across Retailer × Region × State × City combinations. Used Excel to create a dynamic scenario tool and KPI dashboard that quantified Revenue-at-Risk (RaR) with adjustable substitution assumptions. Calculated Herfindahl–Hirschman Index (HHI) quarterly, revealing a shift from high concentration (HHI = 0.445 in 2020 Q1) to low (HHI = 0.021 in 2021 Q4). Identified critical channels (>2% of revenue) and provided actionable recommendations to diversify mid-tier partnerships, protect high-risk accounts, and monitor channel risk over time.
 
-**Tools Used:** MS Excel
+**Tools Used:** Microsoft Excel (PivotTables, XLOOKUP, KPI Dashboards, Conditional Formatting)
 
 ## Tableau Projects
 ### [Airbnb 2016 Data Analysis: Listings, Reviews, and Pricing Insights](https://github.com/matthewarucan/Tableau-Airbnb)
