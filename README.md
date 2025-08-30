@@ -1,5 +1,7 @@
 # Data Analyst | Business Analyst
 
+#### Skills: SQL, MS Excel, Tableau, Python, R
+
 ## Featured Projects
 **🏙️ [Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)**
 
@@ -12,8 +14,6 @@ Developed an Excel-based scenario tool to quantify Revenue-at-Risk from retail c
 **📦 [eBay Sales Optimization](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)**  
 
 Analyzed four years of personal sales data to identify Q4 revenue drops and drivers of purchase behavior—found a 111% boost from free shipping and recommended targeted pricing and shipping strategies.
-
-#### Skills: SQL, MS Excel, Tableau, Python, R
 
 ## Education
 - Bachelor of Science, Business Economics | University of California, San Diego
