@@ -30,6 +30,12 @@ Collaborated with analysts to assess customer feedback and inform the release st
 
 **Tools Used:** MS Excel, Tableau, JMP
 
+
+### [Retail Channel Concentration & Revenue-at-Risk Analysis](https://github.com/matthewarucan/Adidas)
+Performed a channel concentration and risk analysis on Adidas U.S. sales data to assess revenue dependency across Retailer × Region × State × City combinations. Used Excel to create a dynamic scenario tool and KPI dashboard that quantified Revenue-at-Risk (RaR) with adjustable substitution assumptions. Calculated Herfindahl–Hirschman Index (HHI) quarterly, revealing a shift from high concentration (HHI = 0.445 in 2020 Q1) to low (HHI = 0.021 in 2021 Q4). Identified critical channels (>2% of revenue) and provided actionable recommendations to diversify mid-tier partnerships, protect high-risk accounts, and monitor channel risk over time.
+
+**Tools Used:** MS Excel
+
 ## Tableau Projects
 ### [Airbnb 2016 Data Analysis: Listings, Reviews, and Pricing Insights](https://github.com/matthewarucan/Tableau-Airbnb)
 Analyzed over 1 million records from the Airbnb 2016 Listings dataset, which included data on property features, guest reviews, availability, and pricing. Structured and explored listing details (e.g., bedrooms, bathrooms, location), sentiment indicators from review text, and temporal patterns from the calendar data. Prepared the dataset for visualization to identify trends in booking behavior, seasonal price fluctuations, and characteristics of high-demand properties.
