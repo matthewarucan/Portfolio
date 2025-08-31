@@ -53,10 +53,10 @@ Mined over 1 million Airbnb listings to surface trends in guest reviews, listing
 **Tools Used:** Microsoft Excel (PivotTables, XLOOKUP, KPI Dashboards, Conditional Formatting)
 
 ## Tableau Projects
-## Sales Trends Visualization: eBay Seasonal Performance Dashboard
-Developed an interactive Tableau dashboard to analyze four years of personal eBay sales data (2021–2024) and identify seasonal trends by **day**, **week**, and **month**. The dashboard highlights peak revenue periods (e.g., **Week 31**, **August weekends**) and underperforming intervals (e.g., **Week 53**, **October**) through dynamic visuals.
+## [Sales Trends Visualization: eBay Seasonal Performance Dashboard](https://github.com/matthewarucan/Sales_Trends_Dashboard/blob/main/README.md)
+Developed an interactive Tableau dashboard to analyze four years of personal eBay sales data (2021–2024) and identify seasonal trends by day, week, and month. The dashboard highlights peak revenue periods (e.g., Week 31, August weekends) and underperforming intervals (e.g., Week 53, October) through dynamic visuals.
 
-Integrated KPIs, reference lines, and tooltips reveal that **Sundays and Saturdays consistently lead in sales**, while **Q4 shows a significant decline**. This visualization supports strategic planning around **promotional timing**, **free shipping campaigns**, and **Q4 recovery initiatives**.
+Integrated KPIs, reference lines, and tooltips reveal that Sundays and Saturdays consistently lead in sales**, while **Q4 shows a significant decline**. This visualization supports strategic planning around promotional timing, free shipping campaigns, and Q4 recovery initiatives.
 
 **Tools Used:** Tableau
 
