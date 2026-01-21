@@ -12,16 +12,6 @@ Developed an Excel-based scenario tool to quantify Revenue-at-Risk from retail c
 **📦 [E-Commerce Revenue Optimization & Sales Trend Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)**  
 Analyzed four years of personal sales data to identify Q4 revenue drops and drivers of purchase behavior—found a 111% boost from free shipping and recommended targeted pricing and shipping strategies.
 
-## Education
-- Bachelor of Science, Business Economics | University of California, San Diego
-(_June 2024_)
-
-## Certifications
-- Google: Google Data Analytics Professional Certificate  
-  _Completed: October 2024_
-- Udemy: The Ultimate MySQL Bootcamp  
-  _Completed: November 2024_
-
 ## Python Projects
 ### [San Francisco Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)
 Evaluated the impact of San Francisco’s 2018 Airbnb regulations on housing markets using a Difference-in-Differences (DiD) approach. Cleaned and merged rent (ZORI), home value (ZHVI), and Airbnb listing datasets at the ZIP-code level, then classified areas by Airbnb activity intensity. Found that rent growth slowed in high-Airbnb ZIP codes post-policy, while home values continued to rise—suggesting the regulation curbed rental pressure without discouraging long-term investment. Delivered actionable insights through visualizations and statistical modeling using Python.
