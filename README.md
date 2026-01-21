@@ -8,17 +8,6 @@ Developed an Excel-based scenario tool to quantify Revenue-at-Risk from retail c
 **📦 [E-Commerce Revenue Optimization & Sales Trend Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)**  
 Analyzed four years of personal sales data to identify Q4 revenue drops and drivers of purchase behavior—found a 111% boost from free shipping and recommended targeted pricing and shipping strategies.
 
-## Python Projects
-### [San Francisco Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)
-Evaluated the impact of San Francisco’s 2018 Airbnb regulations on housing markets using a Difference-in-Differences (DiD) approach. Cleaned and merged rent (ZORI), home value (ZHVI), and Airbnb listing datasets at the ZIP-code level, then classified areas by Airbnb activity intensity. Found that rent growth slowed in high-Airbnb ZIP codes post-policy, while home values continued to rise—suggesting the regulation curbed rental pressure without discouraging long-term investment. Delivered actionable insights through visualizations and statistical modeling using Python.
-
-**Tools Used:** Python (Pandas, GeoPandas, Statsmodels, Matplotlib), Zillow/Inside Airbnb datasets
-
-### [E-Commerce Revenue Optimization & Sales Trend Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)
-Conducted an end-to-end analysis of personal eBay sales data over a four-year span to identify drivers of seasonal revenue drops, particularly in Q4. Cleaned and transformed raw transaction data using Python (Pandas), then performed descriptive and time-series analyses to uncover trends. Key findings included a 111% increase in revenue from items offering free shipping and a 94% drop in Christmas-season sales compared to back-to-school periods. Delivered actionable strategies, such as targeted Q4 promotions, free shipping campaigns, and optimization of top-performing categories like men’s shoes.
-
-**Tools Used:** Python (Pandas), MS Excel, Tableau
-
 ## SQL Projects
 ### [Bellabeat Wellness Tech: Fitbit User Engagement Insights](https://github.com/matthewarucan/Google-Data-Analytics-Case-Study)
 Explored Fitbit device usage to identify behavioral trends for Bellabeat, a women-focused health-tech brand. Used SQL to clean and aggregate daily activity, heart rate, and sleep metrics across thousands of users. Created Tableau dashboards highlighting peak engagement windows and fitness patterns, helping guide product marketing and feature prioritization.
@@ -50,5 +39,16 @@ Integrated KPIs, reference lines, and tooltips reveal that Sundays and Saturdays
 Analyzed over 1 million records from the Airbnb 2016 Listings dataset, which included data on property features, guest reviews, availability, and pricing. Structured and explored listing details (e.g., bedrooms, bathrooms, location), sentiment indicators from review text, and temporal patterns from the calendar data. Prepared the dataset for visualization to identify trends in booking behavior, seasonal price fluctuations, and characteristics of high-demand properties.
 
 **Tools Used:** Tableau
+
+## Python Projects
+### [San Francisco Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)
+Evaluated the impact of San Francisco’s 2018 Airbnb regulations on housing markets using a Difference-in-Differences (DiD) approach. Cleaned and merged rent (ZORI), home value (ZHVI), and Airbnb listing datasets at the ZIP-code level, then classified areas by Airbnb activity intensity. Found that rent growth slowed in high-Airbnb ZIP codes post-policy, while home values continued to rise—suggesting the regulation curbed rental pressure without discouraging long-term investment. Delivered actionable insights through visualizations and statistical modeling using Python.
+
+**Tools Used:** Python (Pandas, GeoPandas, Statsmodels, Matplotlib), Zillow/Inside Airbnb datasets
+
+### [E-Commerce Revenue Optimization & Sales Trend Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)
+Conducted an end-to-end analysis of personal eBay sales data over a four-year span to identify drivers of seasonal revenue drops, particularly in Q4. Cleaned and transformed raw transaction data using Python (Pandas), then performed descriptive and time-series analyses to uncover trends. Key findings included a 111% increase in revenue from items offering free shipping and a 94% drop in Christmas-season sales compared to back-to-school periods. Delivered actionable strategies, such as targeted Q4 promotions, free shipping campaigns, and optimization of top-performing categories like men’s shoes.
+
+**Tools Used:** Python (Pandas), MS Excel, Tableau
 
 
