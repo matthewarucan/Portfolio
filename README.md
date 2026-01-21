@@ -1,7 +1,3 @@
-# Data Analyst | Business Analyst
-
-#### Skills: SQL, MS Excel, Tableau, Python, R
-
 ## Featured Projects
 **🏙️ [San Francisco Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)**  
 Measured the effect of San Francisco’s 2018 Airbnb crackdown using a Difference-in-Differences model, revealing rent stabilization in high-activity ZIP codes without harming long-term property values.
