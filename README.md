@@ -14,9 +14,9 @@ This project demonstrates the design and implementation of a production-style an
 
 Raw Fitbit CSV files are preserved in a STAGE layer as a system of record, transformed into standardized CLEAN tables, and aggregated into analytics-ready MART fact tables and business views. The warehouse includes ETL logic, deduplication, derived metrics (e.g., total active minutes, steps per active minute), and data quality checks to ensure trust and consistency.
 
-Tools: MySQL, Tableau
+:**Tools::** MySQL, Tableau
 
-Key Skills & Concepts:
+:**Key Skills & Concepts::**
 SQL data cleaning, data modeling, ETL workflows, time-series analysis, analytics engineering, KPI definition, reusable views, data validation
 
 ### [Bellabeat Wellness Tech: Fitbit User Engagement Insights](https://github.com/matthewarucan/Google-Data-Analytics-Case-Study)
