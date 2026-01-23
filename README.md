@@ -9,6 +9,10 @@ Developed an Excel-based scenario tool to quantify Revenue-at-Risk from retail c
 Analyzed four years of personal sales data to identify Q4 revenue drops and drivers of purchase behavior—found a 111% boost from free shipping and recommended targeted pricing and shipping strategies.
 
 ## SQL Projects
+### [Wellness Activity & Sleep Analytics Warehouse](https://github.com/matthewarucan/Wellness-Analytics-Pipeline/blob/main/README.md)
+
+
+
 ### [Bellabeat Wellness Tech: Fitbit User Engagement Insights](https://github.com/matthewarucan/Google-Data-Analytics-Case-Study)
 Explored Fitbit device usage to identify behavioral trends for Bellabeat, a women-focused health-tech brand. Used SQL to clean and aggregate daily activity, heart rate, and sleep metrics across thousands of users. Created Tableau dashboards highlighting peak engagement windows and fitness patterns, helping guide product marketing and feature prioritization.
 
