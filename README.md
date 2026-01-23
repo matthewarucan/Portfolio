@@ -10,8 +10,13 @@ Analyzed four years of personal sales data to identify Q4 revenue drops and driv
 
 ## SQL Projects
 ### [Wellness Activity & Sleep Analytics Warehouse](https://github.com/matthewarucan/Wellness-Analytics-Pipeline/blob/main/README.md)
+This project demonstrates the design and implementation of a production-style analytics warehouse to analyze wearable activity and sleep data. Rather than relying on ad-hoc SQL queries, I built a rerunnable, layered SQL pipeline that separates raw data ingestion, cleaning, modeling, and analytics consumption.
 
+Raw Fitbit CSV files are preserved in a STAGE layer as a system of record, transformed into standardized CLEAN tables, and aggregated into analytics-ready MART fact tables and business views. The warehouse includes ETL logic, deduplication, derived metrics (e.g., total active minutes, steps per active minute), and data quality checks to ensure trust and consistency.
 
+Tools: MySQL, Tableau
+Key Skills & Concepts:
+SQL data cleaning, data modeling, ETL workflows, time-series analysis, analytics engineering, KPI definition, reusable views, data validation
 
 ### [Bellabeat Wellness Tech: Fitbit User Engagement Insights](https://github.com/matthewarucan/Google-Data-Analytics-Case-Study)
 Explored Fitbit device usage to identify behavioral trends for Bellabeat, a women-focused health-tech brand. Used SQL to clean and aggregate daily activity, heart rate, and sleep metrics across thousands of users. Created Tableau dashboards highlighting peak engagement windows and fitness patterns, helping guide product marketing and feature prioritization.
