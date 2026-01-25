@@ -45,10 +45,6 @@ Integrated KPIs, reference lines, and tooltips reveal that Sundays and Saturdays
 
 **Tools Used:** Tableau
 
-### [Airbnb 2016 Data Analysis: Listings, Reviews, and Pricing Insights](https://github.com/matthewarucan/Tableau-Airbnb)
-Analyzed over 1 million records from the Airbnb 2016 Listings dataset, which included data on property features, guest reviews, availability, and pricing. Structured and explored listing details (e.g., bedrooms, bathrooms, location), sentiment indicators from review text, and temporal patterns from the calendar data. Prepared the dataset for visualization to identify trends in booking behavior, seasonal price fluctuations, and characteristics of high-demand properties.
-
-**Tools Used:** Tableau
 
 ## Python Projects
 ### [San Francisco Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)
