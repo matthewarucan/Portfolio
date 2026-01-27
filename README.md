@@ -1,6 +1,6 @@
 ## Featured Projects
-**🏙️ [San Francisco Airbnb Regulation Impact Analysis](https://github.com/matthewarucan/Airbnb)**  
-Measured the effect of San Francisco’s 2018 Airbnb crackdown using a Difference-in-Differences model, revealing rent stabilization in high-activity ZIP codes without harming long-term property values.
+**🏙️ [Wellness Activity & Sleep Analytics Warehouse](https://github.com/matthewarucan/Wellness-Analytics-Pipeline/blob/main/README.md)**  
+
 
 **👟 [Retail Channel Concentration & Revenue-at-Risk Analysis](https://github.com/matthewarucan/Adidas)**  
 Developed an Excel-based scenario tool to quantify Revenue-at-Risk from retail channel churn, using Top-N share analysis, HHI, and substitution rate simulations to inform diversification strategy.
