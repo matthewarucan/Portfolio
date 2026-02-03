@@ -30,8 +30,8 @@ Analyzed a structural shift in the sneaker and apparel resale market by combinin
 
 Validated these insights through a controlled market trial in the digital and vintage camera category. Tested pricing, sell-through rates, and customer willingness to pay for fully tested, complete products, achieving net profit margins of ~45% and sell-through rates near 80% across two months. This project demonstrates end-to-end business analysis: identifying macro risk, interpreting financial statements, running real-world experiments, and using data to support a strategic pivot.
 
-Tools Used: Microsoft Excel
-Key Skills & Concepts: Macroeconomic analysis, financial statement analysis, inventory and margin diagnostics, demand sensitivity, experimental validation, data-driven decision making
+**Tools Used:** Microsoft Excel
+**Key Skills & Concepts:** Macroeconomic analysis, financial statement analysis, inventory and margin diagnostics, demand sensitivity, experimental validation, data-driven decision making
 
 ### [ER Games: Launch Strategy Evaluation](https://github.com/matthewarucan/ER-Games)
 Modeled the launch strategy for ER Games’ new puzzle-RPG by analyzing player feedback, demographic segments, and regional sales projections. Used Excel to calculate KPIs, run A/B testing scenarios, and build classification models forecasting market performance. Created Tableau dashboards summarizing top launch regions and projected adoption curves, supporting go/no-go decisions by product stakeholders.
