@@ -2,11 +2,11 @@
 **[Wellness Activity & Sleep Analytics Warehouse](https://github.com/matthewarucan/Wellness-Analytics-Pipeline/blob/main/README.md)**  
 Built a production-style SQL analytics warehouse to transform raw wearable activity and sleep data into standardized, analytics-ready datasets, enabling consistent behavioral analysis and business insights.
 
+**[Macro-Driven Market Pivot Analysis](https://github.com/matthewarucan/pivotanalysis-files/blob/main/README.md)**
+Analyzed a structural shift in the sneaker and apparel resale market by combining U.S. macroeconomic trends with multi-year financial data from leading footwear and apparel brands to assess changes in demand, margins, and inventory risk. Validated the findings through a controlled market trial in digital and vintage cameras, confirming stronger unit economics and more stable demand to support a data-driven strategic pivot.
+
 **[Retail Channel Concentration & Revenue-at-Risk Analysis](https://github.com/matthewarucan/Adidas)**  
 Developed an Excel-based scenario tool to quantify Revenue-at-Risk from retail channel churn, using Top-N share analysis, HHI, and substitution rate simulations to inform diversification strategy.
-
-**[E-Commerce Revenue Optimization & Sales Trend Analysis](https://github.com/matthewarucan/E-commerce-Analytics/blob/main/README.md)**  
-Analyzed four years of personal sales data to identify Q4 revenue drops and drivers of purchase behavior—found a 111% boost from free shipping and recommended targeted pricing and shipping strategies.
 
 ## SQL Projects
 ### [Wellness Activity & Sleep Analytics Warehouse](https://github.com/matthewarucan/Wellness-Analytics-Pipeline/blob/main/README.md)
@@ -25,6 +25,14 @@ Explored Fitbit device usage to identify behavioral trends for Bellabeat, a wome
 **Tools Used:** MySQL, MS Excel, Tableau
 
 ## Excel Projects
+### [Macro-Driven Market Pivot Analysis](https://github.com/matthewarucan/pivotanalysis-files/blob/main/README.md)
+Analyzed a structural shift in the sneaker and apparel resale market by combining U.S. macroeconomic indicators with public financial disclosures from leading footwear and apparel brands. Evaluated trends in inflation, real wage growth, consumer savings, and debt alongside multi-year revenue, margin, and inventory data from Nike, Adidas, and Ralph Lauren to determine whether declining resale performance was cyclical or structural. Findings showed that reduced purchasing power, elevated inventory levels, and increased discounting compressed resale margins and increased inventory risk across discretionary categories.
+
+Validated these insights through a controlled market trial in the digital and vintage camera category. Tested pricing, sell-through rates, and customer willingness to pay for fully tested, complete products, achieving net profit margins of ~45% and sell-through rates near 80% across two months. This project demonstrates end-to-end business analysis: identifying macro risk, interpreting financial statements, running real-world experiments, and using data to support a strategic pivot.
+
+Tools Used: Microsoft Excel
+Key Skills & Concepts: Macroeconomic analysis, financial statement analysis, inventory and margin diagnostics, demand sensitivity, experimental validation, data-driven decision making
+
 ### [ER Games: Launch Strategy Evaluation](https://github.com/matthewarucan/ER-Games)
 Modeled the launch strategy for ER Games’ new puzzle-RPG by analyzing player feedback, demographic segments, and regional sales projections. Used Excel to calculate KPIs, run A/B testing scenarios, and build classification models forecasting market performance. Created Tableau dashboards summarizing top launch regions and projected adoption curves, supporting go/no-go decisions by product stakeholders.
 
