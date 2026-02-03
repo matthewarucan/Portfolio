@@ -2,7 +2,7 @@
 **[Wellness Activity & Sleep Analytics Warehouse](https://github.com/matthewarucan/Wellness-Analytics-Pipeline/blob/main/README.md)**  
 Built a production-style SQL analytics warehouse to transform raw wearable activity and sleep data into standardized, analytics-ready datasets, enabling consistent behavioral analysis and business insights.
 
-**[Macro-Driven Market Pivot Analysis](https://github.com/matthewarucan/pivotanalysis-files/blob/main/README.md)**
+**[Macro-Driven Market Pivot Analysis](https://github.com/matthewarucan/pivotanalysis-files/blob/main/README.md)**  
 Analyzed a structural shift in the sneaker and apparel resale market by combining U.S. macroeconomic trends with multi-year financial data from leading footwear and apparel brands to assess changes in demand, margins, and inventory risk. Validated the findings through a controlled market trial in digital and vintage cameras, confirming stronger unit economics and more stable demand to support a data-driven strategic pivot.
 
 **[Retail Channel Concentration & Revenue-at-Risk Analysis](https://github.com/matthewarucan/Adidas)**  
@@ -25,7 +25,7 @@ Explored Fitbit device usage to identify behavioral trends for Bellabeat, a wome
 **Tools Used:** MySQL, MS Excel, Tableau
 
 ## Excel Projects
-### [Macro-Driven Market Pivot Analysis](https://github.com/matthewarucan/pivotanalysis-files/blob/main/README.md)
+### [Macro-Driven Market Pivot Analysis](https://github.com/matthewarucan/pivotanalysis-files/blob/main/README.md)  
 Analyzed a structural shift in the sneaker and apparel resale market by combining U.S. macroeconomic indicators with public financial disclosures from leading footwear and apparel brands. Evaluated trends in inflation, real wage growth, consumer savings, and debt alongside multi-year revenue, margin, and inventory data from Nike, Adidas, and Ralph Lauren to determine whether declining resale performance was cyclical or structural. Findings showed that reduced purchasing power, elevated inventory levels, and increased discounting compressed resale margins and increased inventory risk across discretionary categories.
 
 Validated these insights through a controlled market trial in the digital and vintage camera category. Tested pricing, sell-through rates, and customer willingness to pay for fully tested, complete products, achieving net profit margins of ~45% and sell-through rates near 80% across two months. This project demonstrates end-to-end business analysis: identifying macro risk, interpreting financial statements, running real-world experiments, and using data to support a strategic pivot.
